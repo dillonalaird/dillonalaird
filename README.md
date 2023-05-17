@@ -1,4 +1,1 @@
-Working on vision models Landing AI 🤖
-Previously Stanford UW 🎓
-neovim enthusiast 💻
-I help neural networks find local minima 🧠
+Working on vision models LandingAI 🤖 Previously Stanford UW 🎓 neovim enthusiast 💻 I help neural networks find local minima 🧠
